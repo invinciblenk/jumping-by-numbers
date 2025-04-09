@@ -21,6 +21,5 @@ array = user_input.split()
 
 array = [int(x) for x in array]
 
-print('Ваш массив: ', array)
 print(jump(array))
 #invincible_nk :)
