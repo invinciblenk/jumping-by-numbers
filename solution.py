@@ -15,7 +15,7 @@ def jump(nums):
     return True
 
 
-user_input = input('Введите элементы массива, раделенные пробелами: ')
+user_input = input('Введите элементы списка, раделенные пробелами: ')
 
 array = user_input.split()
 
